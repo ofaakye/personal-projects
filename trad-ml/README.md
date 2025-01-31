@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="./images/house-market.png" alt="AI Generated Image with prompt: cartoon busy housing market where people are buying and selling houses." />
     <br>
-    What Is the Value of My Home
+    What Is the Value of My Home?
     <br>
 </h1>
 <h4 align="center">An AI Generated Image with prompt: "cartoon busy housing market where people are buying and selling houses"</h4>
