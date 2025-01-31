@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="./images/home_page.png" alt="AI Generated Image with prompt: cartoon to show getting an understanding of property tax appeal process." />
     <br>
-    Understanding Camden County NJ Property Tax Appeal Process With LLM
+    Understanding Camden County NJ Property Tax Appeal Process With LLMs
     <br>
 </h1>
 <h4 align="center">An AI Generated Image with prompt: "multi racial cartoon to show getting an understanding of property tax appeal process"</h4>
